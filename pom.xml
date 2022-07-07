@@ -14,7 +14,7 @@
 	<name>PropertiesToObject</name>
 	<description>Java code to load complex objects and its attributes from properties files</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
